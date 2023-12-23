@@ -32,5 +32,5 @@ header {
 /* text-decoration: none;で<a>の下線消し */
 #nav-pc > a {
     text-decoration: none;
-    margin-left: 20px;
+margin-left: 20px;
 }
