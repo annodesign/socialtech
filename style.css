@@ -10,7 +10,7 @@ p {
 /*================
    PC用のスタイル 
 =================*/
-@media screen and (min-width: 768px) {
+
 /* 横幅設定 */
 body {
     max-width: 1080px;
@@ -417,7 +417,7 @@ h3 {
       width: 400px;
       height: 56px;
 }
-
+      
 /* お問い合わせ内容のテキストエリア */
 .contact-textarea {
       border-top: 0;
@@ -492,13 +492,6 @@ details > div > span {
 #copyright {
       color: #fff;
       float: right;
-}
-}
+ }
 
 
-/*====================
-  スマートフォン用のスタイル
-=====================*/
-@media screen and (max-width: 767px) {
-  
-}
