@@ -907,4 +907,24 @@ details > div > span {
             margin-top: 30px;
             color: #ffffff;
       }
+
+      /* mission.html用のスタイル */
+      /* ミッションのメインビジュアル */
+      #mission-main {
+            height: 496px;
+            width: 100%;
+            background-image: url("images/mission/mission-main.png");
+            background-repeat: no-repeat;
+            background-position-y: center;
+      }
+      #mission-title {
+            background-color: #2710d5;
+            width: 368px;
+            color: #ffffff;
+            height: 496px;
+            border-radius: 0 248px 248px 0;
+            position: relative;
+      }
+
+
 }
